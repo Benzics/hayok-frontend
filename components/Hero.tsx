@@ -5,7 +5,7 @@ import HeroVideoButtons from './ui/HeroVideoButtons'
 const Hero = () => {
   return (
     <section className="relative bg-white text-center px-28 py-10">
-        <h1 className="font-serif text-[#272c3e] text-5xl py-4 tracking-[-2px]"
+        <h1 className="font-serif text-[#272c3e] text-[3.4rem] font-medium py-4 tracking-[-2px]"
             style={{wordSpacing: '-8px'}}>
             <span className="text-[#3799db]">Empowering</span> Healthcare Providers for Quality Assurance
         </h1>
