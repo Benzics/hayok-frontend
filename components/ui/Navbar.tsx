@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="bg-white ">
         <div className="relative flex h-20 items-center justify-between">
             <div className="left-0">
-                <h1 className="px-5 text-[#3799db] font-bold text-3xl">Heflema</h1>
+                <h1 className="px-5 custom-text-blue font-bold text-3xl">Heflema</h1>
             </div>
             <div>
                 <div className="flex">
@@ -19,8 +19,8 @@ const Navbar = () => {
             </div>
             <div className="right-0">
                 <div className="flex items-center justify-between">
-                    <button className="px-6 py-2 bg-transparent border border-[#1c3664] rounded-3xl text-sm transition hover:bg-[#1c3664] hover:text-white">Sign in</button>
-                    <button className="ml-3 px-6 py-2 bg-[#1c3664] text-white border border-[#1c3664] rounded-3xl text-sm">Sign up</button>
+                    <button className="px-6 py-2 bg-transparent border custom-border-darkblue rounded-3xl text-sm transition hover:custom-bg-darkblue hover:text-white">Sign in</button>
+                    <button className="ml-3 px-6 py-2 custom-bg-darkblue text-white border custom-border-darkblue rounded-3xl text-sm">Sign up</button>
                 </div>
             </div>
         </div>

@@ -7,7 +7,7 @@ const Hero = () => {
     <section className="relative bg-white text-center px-28 py-10">
         <h1 className="font-serif text-[#272c3e] text-[3.4rem] font-medium py-4 tracking-[-2px]"
             style={{wordSpacing: '-8px'}}>
-            <span className="text-[#3799db]">Empowering</span> Healthcare Providers for Quality Assurance
+            <span className="custom-text-blue">Empowering</span> Healthcare Providers for Quality Assurance
         </h1>
         <p className="text-gray-500 py-5 px-48">
         Lorem ipsum dolor sit amet . The graphic and typographic operators know this well, in reality all the

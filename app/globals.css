@@ -25,4 +25,31 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+  .custom-text-blue {
+    color: #3799db;
+  }
+  .custom-bg-blue {
+    background-color: #3799db;;
+  }
+  .custom-border-blue {
+    border-color: #3799db;;
+  }
+  .custom-text-darkblue {
+    color: #1c3664;
+  }
+  .custom-bg-darkblue {
+    background-color: #1c3664;
+  }
+  .custom-border-darkblue {
+    border-color: #1c3664;
+  }
+  .custom-text-yellow {
+    color: #ffbd14;
+  }
+  .custom-bg-yellow {
+    background-color: #ffbd14;
+  }
+  .custom-border-yellow {
+    border-color: #ffbd14;
+  }
 }
