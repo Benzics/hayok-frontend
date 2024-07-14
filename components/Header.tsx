@@ -3,7 +3,7 @@ import Navbar from './ui/Navbar'
 
 const Header = () => {
   return (
-    <header className="px-28 border">
+    <header className="px-24 border">
         <Navbar />
     </header>
   )
