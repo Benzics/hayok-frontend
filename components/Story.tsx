@@ -4,7 +4,7 @@ import ImageStack from './ui/ImageStack'
 
 const Story = () => {
   return (
-    <>
+    <section>
         <TitleBar
             caption="Our story"
             position="right"
@@ -47,7 +47,7 @@ const Story = () => {
                 </div>
             </div>
         </div>
-    </>
+    </section>
   )
 }
 
