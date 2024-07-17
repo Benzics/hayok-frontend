@@ -52,7 +52,10 @@ body {
   .custom-border-yellow {
     border-color: #ffbd14;
   }
+  /* .hover-p {
+    transition: all;
+  }
   .hover-p:hover .child {
     display: block;
-  }
+  } */
 }
