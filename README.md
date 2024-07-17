@@ -16,4 +16,4 @@ npm run dev
 - NextJS
 - TailwindCSS
 
-![alt text](https://github.com/benzics/hayok-frontend/blob/public/heflema_landing.png?raw=true)
+![alt text](https://github.com/Benzics/hayok-frontend/blob/main/public/heflema_landing.png?raw=true)
