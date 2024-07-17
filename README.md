@@ -1,4 +1,4 @@
-This is a NextjJS representation of HEFLEMA's landing page
+This is a NextJS 14 representation of HEFLEMA's landing page
 
 ## System Requirement
 - Node.js 18.17 or later.
