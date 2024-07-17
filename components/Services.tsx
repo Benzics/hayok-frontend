@@ -50,7 +50,7 @@ const Services = () => {
                     </h3>
                 </div>
                 <div className="text-right">
-                    <a href="#" className="border custom-border-blue bg-transparent custom-text-blue px-5 py-2 rounded-3xl">
+                    <a href="#" className="border custom-border-blue bg-transparent custom-text-blue px-5 py-2 rounded-3xl transition hover:custom-bg-blue hover:text-white">
                         Details
                     </a>
                 </div>
@@ -64,7 +64,7 @@ const Services = () => {
                     </h3>
                 </div>
                 <div className="text-right">
-                    <a href="#" className="border custom-border-blue bg-transparent custom-text-blue px-5 py-2 rounded-3xl">
+                    <a href="#" className="border custom-border-blue bg-transparent custom-text-blue px-5 py-2 rounded-3xl transition hover:custom-bg-blue hover:text-white">
                         Details
                     </a>
                 </div>

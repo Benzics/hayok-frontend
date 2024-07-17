@@ -17,7 +17,7 @@ const ImageStack = ({
   return (
     <>
     <img
-        className={`absolute w-[75%] rounded-tl-3xl rounded-br-3xl ${position === 'left' ? ' -top-2 ': 'right-10'}`}
+        className={`absolute w-[75%] rounded-tl-3xl rounded-br-3xl ${position === 'left' ? ' -top-2 ': 'right-20'}`}
         src={image1}
         alt={alt1}
     />

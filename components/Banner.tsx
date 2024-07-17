@@ -7,6 +7,7 @@ const Banner = () => {
             <figure className="col-span-4">
                 <img src="./banner1.jpg"
                     className="min-h-full w-full rounded-r-3xl"
+                    alt="banner"
                 />
             </figure>
             <div className="relative col-span-3 grid grid-rows-3">
@@ -31,6 +32,7 @@ const Banner = () => {
                     <figure className="col-span-2">
                         <img src="./banner2.jpg"
                                 className="min-h-full w-full rounded-3xl"
+                                alt="banner"
                             />
                     </figure>
                 </div>
@@ -38,16 +40,19 @@ const Banner = () => {
                     <figure className="col-span-2 row-span-2">
                         <img src="./banner3.jpg"
                                 className="min-h-full w-full rounded-l-3xl"
+                                alt="banner"
                             />
                     </figure>
                     <figure>
                         <img src="./banner1.jpg"
                                 className="min-h-full w-full rounded-3xl"
+                                alt="banner"
                             />
                     </figure>
                     <figure>
                         <img src="./banner1.jpg"
                                 className="min-h-full w-full rounded-l-3xl"
+                                alt="banner"
                             />
                     </figure>
                 </div>
