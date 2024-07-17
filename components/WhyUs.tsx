@@ -9,7 +9,7 @@ const WhyUs = () => {
             content="Elevate Your Facility, Elevate Patient Care: The Benefits of HEFLEMA Accreditation"
             position="right"
         />
-        <div className="px-24 grid grid-cols-4 items-end gap-6 mb-72">
+        <div className="px-24 grid grid-cols-4 items-end gap-6 mb-6">
             <div>
                 <h2 className="font-bold font-serif text-3xl mb-2">Accreditation made easy</h2>
                 <figure className="h-96 overflow-hidden rounded-2xl mb-2">

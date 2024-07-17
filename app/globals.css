@@ -52,4 +52,7 @@ body {
   .custom-border-yellow {
     border-color: #ffbd14;
   }
+  .hover-p:hover .child {
+    display: block;
+  }
 }
